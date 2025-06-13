@@ -16,7 +16,7 @@ This project is a comprehensive API testing and automation  focused on the Dmone
 ## Integration Documentation
 https://documenter.getpostman.com/view/45663884/2sB2x6mXd9
 ## Test Case File
-
+https://docs.google.com/spreadsheets/d/12_AbvuraEXb_w64c7IvJwsQqYJGs2sE5TqvUYaZHpuI/edit?usp=sharing
 ## Bug Report Link
 
 ## newman Report
